@@ -2,6 +2,6 @@
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "s-mishra.github.io"]
-	path = s-mishra.github.io
+	path = public
 	url = https://github.com/s-mishra/s-mishra.github.io.git
 	branch = master
