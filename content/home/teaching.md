@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Teaching"
 subtitle = ""
 
 [content]
@@ -65,3 +65,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I was a teaching instructor for the following courses at The Australian National University:
+
+- COMP4650/6490: Document Analysis (2013-2018)
+- COMP2420/6420 (Course designer and Lecturer): Introduction to Data Management, Analysis and Security (2018)
+- COMP2410/6340: Networked Information Systems (2014, 2017, 2018)
+- COMP7230(Co-lecturer): Introduction to Programming for Data Scientists (2017)
+- COMP1730/6730: Programming for Scientist (2014, 2015)
