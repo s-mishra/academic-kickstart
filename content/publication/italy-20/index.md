@@ -3,7 +3,7 @@
 
 title: "A sub-national analysis of the rate of transmission of COVID-19 in Italy."
 authors: ["Michaela A.C. Vollmer∗", "Swapnil Mishra∗", "H Juliette T Unwin∗"," Axel Gandy∗","Thomas A. Mellan", "Valerie Bradley", "Helen Coupland",  "Harrison Zhu", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Neil M. Ferguson", "Steven M. Riley", "Christl A. Donnelly", "Ilaria Dorigatti", "Seth Flaxman*", "Samir Bhatt*"]
-date: 2020-06-07T05:15:07+01:00
+date: 2020-05-09T05:15:07+01:00
 doi: "10.1101/2020.05.05.20089359"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.05.05.20089359v1.full.pdf"
+url_pdf: "https://www.medrxiv.org/content/10.1101/2020.05.05.20089359v1.full.pdf"
 url_code: "https://github.com/ImperialCollegeLondon/covid19model"
 url_dataset: "https://github.com/ImperialCollegeLondon/covid19model"
 url_poster:
