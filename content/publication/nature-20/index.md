@@ -30,11 +30,9 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Supplementary Material
+  url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2405-7/MediaObjects/41586_2020_2405_MOESM1_ESM.pdf
 
 url_pdf: "https://www.nature.com/articles/s41586-020-2405-7_reference.pdf"
 url_code: "https://github.com/ImperialCollegeLondon/covid19model"
@@ -42,7 +40,7 @@ url_dataset: "https://github.com/ImperialCollegeLondon/covid19model"
 url_poster:
 url_project: "https://mrc-ide.github.io/covid19estimates"
 url_slides: "https://docs.google.com/presentation/d/1JJw-3ZVZvzcUsgbkzW-8BQ0T1Zvy2cHvVOTGbKPaywI/edit?usp=sharing"
-url_source: "https://mrc-ide.github.io/covid19estimates/"
+url_source: "https://www.nature.com/articles/s41586-020-2405-7"
 url_video: "https://mrc-ide.github.io/covid19estimates/#/animations"
 
 # Featured image
