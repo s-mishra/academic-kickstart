@@ -24,7 +24,6 @@ interests:
 - Epidemiology
 - Hierarchial Bayesian Modelling
 - Renewal Processes 
-- Popularity Modeling
 - Online Information Diffusion
 - Stochastic Point Processes
 - Deep Learning
