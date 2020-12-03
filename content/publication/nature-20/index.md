@@ -34,7 +34,7 @@ links:
 - name: Supplementary Material
   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2405-7/MediaObjects/41586_2020_2405_MOESM1_ESM.pdf
 
-url_pdf: "https://www.nature.com/articles/s41586-020-2405-7_reference.pdf"
+url_pdf: "https://www.nature.com/articles/s41586-020-2405-7.pdf"
 url_code: "https://github.com/ImperialCollegeLondon/covid19model"
 url_dataset: "https://github.com/ImperialCollegeLondon/covid19model"
 url_poster:
