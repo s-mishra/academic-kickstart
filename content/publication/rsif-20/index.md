@@ -35,8 +35,8 @@ featured: true
 #   url: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2405-7/MediaObjects/41586_2020_2405_MOESM1_ESM.pdf
 
 url_pdf: "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2020.0596"
-url_code: "https://github.com/ImperialCollegeLondon/covid19model"
-url_dataset: "https://github.com/ImperialCollegeLondon/covid19model"
+url_code: "https://github.com/mrc-ide/Brazil_COVID19_distributions"
+url_dataset: "https://github.com/mrc-ide/Brazil_COVID19_distributions"
 url_source: "https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2020.0596"
 
 # Featured image
