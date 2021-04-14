@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe."
-authors: ["Seth Flaxman*", "Swapnil Mishra*", "Axel Gandy*", "H. Juliette T. Unwin", "Thomas A. Mellan", "Helen Coupland", "Charles Whittaker", "Harrison Zhu", "Tresnia Berah", "Jeffrey W. Eaton", "Mélodie Monod", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Christl A. Donnelly", "Steven M. Riley", "Michaela A. C. Vollmer", "Neil M. Ferguson", "Lucy C.  Okell", "Samir Bhatt*"]
+authors: ["Swapnil Mishra*", "Seth Flaxman*", "Axel Gandy*", "H. Juliette T. Unwin", "Thomas A. Mellan", "Helen Coupland", "Charles Whittaker", "Harrison Zhu", "Tresnia Berah", "Jeffrey W. Eaton", "Mélodie Monod", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Christl A. Donnelly", "Steven M. Riley", "Michaela A. C. Vollmer", "Neil M. Ferguson", "Lucy C.  Okell", "Samir Bhatt*"]
 date: 2020-06-08T10:15:07+01:00
 doi: "10.1038/s41586-020-2405-7 "
 

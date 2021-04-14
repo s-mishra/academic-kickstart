@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "State-level tracking of COVID-19 in the United States."
-authors: ["H. Juliette T. Unwin*", "Swapnil Mishra*", "Valerie C Bradley*", "Axel Gandy*", "Michaela A. C. Vollmer", "Thomas A. Mellan", "Helen Coupland", "Charles Whittaker", "Harrison Zhu", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Neil M. Ferguson", "Steven M. Riley", "Christl A. Donnelly",  "Samir Bhatt*", "Seth Flaxman*"]
+authors: ["Swapnil Mishra*", "H. Juliette T. Unwin*", "Valerie C Bradley*", "Axel Gandy*", "Michaela A. C. Vollmer", "Thomas A. Mellan", "Helen Coupland", "Charles Whittaker", "Harrison Zhu", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Neil M. Ferguson", "Steven M. Riley", "Christl A. Donnelly",  "Samir Bhatt*", "Seth Flaxman*"]
 date: 2020-10-15T05:25:07+01:00
 doi: ""
 

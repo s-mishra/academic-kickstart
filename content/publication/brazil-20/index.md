@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Estimating COVID-19 cases and reproduction number in Brazil."
-authors: [ "Thomas A. Mellan*", "Henrique H Hoeltgebaum*","Swapnil Mishra*", "Charles Whittaker*", "RicardoPSchnekenberg*", "Axel Gandy*", "H. Juliette T. Unwin", "Michaela A C Vollmer", "Helen Coupland",  "Harrison Zhu", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Neil M. Ferguson", "Steven M. Riley", "Christl A. Donnelly", "Seth Flaxman*", "Samir Bhatt*"]
+authors: [ "Swapnil Mishra*", "Thomas A. Mellan*", "Henrique H Hoeltgebaum*","Swapnil Mishra*", "Charles Whittaker*", "RicardoPSchnekenberg*", "Axel Gandy*", "H. Juliette T. Unwin", "Michaela A C Vollmer", "Helen Coupland",  "Harrison Zhu", "Imperial College COVID-19 Response Team", "Azra C. Ghani", "Neil M. Ferguson", "Steven M. Riley", "Christl A. Donnelly", "Seth Flaxman*", "Samir Bhatt*"]
 date: 2020-05-18T05:20:07+01:00
 doi: "10.1101/2020.05.09.20096701 "
 
