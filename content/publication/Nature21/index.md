@@ -39,7 +39,7 @@ links:
 - name: Supplementary Material
   url: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03470-x/MediaObjects/41586_2021_3470_MOESM1_ESM.pdf"
 
-url_pdf: "https://www.nature.com/articles/s41586-021-03470-x_reference.pdf"
+url_pdf: "https://www.nature.com/articles/s41586-021-03470-x.pdf"
 url_code: "https://github.com/mrc-ide/sarscov2-b.1.1.7"
 url_dataset: "https://github.com/mrc-ide/sarscov2-b.1.1.7"
 url_poster:
